@@ -6,8 +6,6 @@ font-family: 'BadScript';
 color:white;
 }
 body{
-  /*height:100%;
-  width:90%;*/
   background-image: url("https://image.freepik.com/free-vector/barber-shop-seamless-vector-pattern-beauty-hairdresser-salon-flat-icon-background_109722-30.jpg");
   display: flex;
   justify-content: center;
